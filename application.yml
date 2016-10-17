@@ -29,7 +29,7 @@ spring:
 
 # HTTP Server
 server:
-  port: 2222   # HTTP (Tomcat) port
+  port: 11111   # HTTP (Tomcat) port
 
 # Discovery Server Access
 #  1. DEV ONLY: Reduce the lease renewal interval to speed up registration
@@ -73,3 +73,5 @@ security:
   user:
     name: admin1
     password: admin#123
+    
+    
