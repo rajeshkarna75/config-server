@@ -2,7 +2,7 @@ security:
   basic:
     enabled: true
   user:
-    name: admin5
+    name: admin6
     password: admin#123
     
     
