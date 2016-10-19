@@ -2,4 +2,4 @@ spring:
   cloud:
     stream:
       bindign:
-        input: tabletennisplayer
+        input: tabletennisplayers
