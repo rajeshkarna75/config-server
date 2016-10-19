@@ -1,8 +1,5 @@
-security:
-  basic:
-    enabled: true
-  user:
-    name: admin7
-    password: admin#123
-    
-    
+spring:
+  cloud:
+    stream:
+      bindign:
+        input: cricketers      
