@@ -2,4 +2,5 @@ spring:
   cloud:
     stream:
       bindign:
-        output: cricketers      
+        input: cricketers
+        output: cricketers    
