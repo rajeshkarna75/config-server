@@ -1,6 +1,6 @@
-spring:
-  cloud:
-    stream:
-      bindign:
-        input: cricketers
-        output: cricketers    
+#spring:
+#  cloud:
+#    stream:
+#      bindign:
+#        input: cricketers
+#        output: cricketers    
