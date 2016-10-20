@@ -1,6 +1,1 @@
-#spring:
-#  cloud:
-#    stream:
-#      bindign:
-#        input: cricketers
-#        output: cricketers    
+greeting: Hello   
