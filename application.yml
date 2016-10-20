@@ -1,1 +1,4 @@
-greeting: Hello
+security:
+  user:
+    name: admin
+    password: admin
