@@ -1,4 +1,4 @@
 security:
   user:
-    name: admin-git
-    password: admin-git
+    name: admin
+    password: admin
