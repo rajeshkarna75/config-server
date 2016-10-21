@@ -2,5 +2,5 @@ spring:
   test: testing
 security:
   user:
-    password: testing12d 
+    password: testing12dttt
  
