@@ -1,0 +1,7 @@
+spring:
+  test: testing
+security:
+  user:
+    password: testing 
+    
+ 
