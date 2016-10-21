@@ -1,5 +1,3 @@
-spring:
-  test: testing
 security:
   user:
     password: Hello1
