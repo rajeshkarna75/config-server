@@ -2,7 +2,11 @@ spring:
   test: testing
 security:
   user:
+<<<<<<< HEAD
     password: testing12d
+=======
+    password: testing12
+>>>>>>> branch 'master' of https://github.com/rajeshkarna75/config-server.git
     
  
  
