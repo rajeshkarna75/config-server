@@ -2,4 +2,4 @@ spring:
   test: testing
 security:
   user:
-    password: Hello
+    password: Hello1
