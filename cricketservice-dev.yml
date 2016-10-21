@@ -2,9 +2,7 @@ spring:
   test: testing
 security:
   user:
-    password: testing 
-    
-    
+    password: testing1
     
  
  
